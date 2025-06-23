@@ -1,7 +1,5 @@
 # Braille Auto-Correct and Suggestion System
 
-This is <b>Pranay Malhotra's</b> submission for the Thinkerbell Labs Software Intern Task.
-
 ## <b>Description</b>
 
 This project implements a basic auto-correct and suggestion system for Braille input typed via a standard QWERTY keyboard. The system accepts sequences of Braille dot key combinations (mapped to QWERTY keys) and returns the closest matching word(s) from a predefined dictionary.
